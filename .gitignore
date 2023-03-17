@@ -1,0 +1,30 @@
+# Ignorar archivos compilados
+bin/
+obj/
+
+# Ignorar archivos de configuración local
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar archivos de caché y registros
+[Tt]humbs.db
+*.log
+*.vs/
+
+# Ignorar paquetes NuGet
+*.nupkg
+packages/
+
+# Ignorar archivos de salida de compilación
+*.cache
+*.exe
+*.dll
+*.manifest
+*.pdb
+*.cache
+*.ilk
+*.msi
+*.zip
+*.rar
+*.7z
