@@ -25,6 +25,6 @@ packages/
 *.cache
 *.ilk
 *.msi
-*.zip
+
 *.rar
 *.7z
